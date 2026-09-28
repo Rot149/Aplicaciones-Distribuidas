@@ -1,0 +1,23 @@
+{
+  "name": "primer_codigo",
+  "version": "1.0.0",
+  "description": "primer intento de codigo en esta maquina",
+  "homepage": "https://github.com/Rot149/Aplicaciones-Distribuidas/tree/main#readme",
+  "bugs": {
+    "url": "https://github.com/Rot149/Aplicaciones-Distribuidas/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rot149/Aplicaciones-Distribuidas.git#main"
+  },
+  "license": "ISC",
+  "author": "Arriaga Duran Hector Arturo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
